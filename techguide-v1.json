@@ -1,5 +1,5 @@
 {
-  "name": "Nome do Guia",
+  "name": "Java",
   "expertises": [
     {
       "name": "Nivel 1 - Básico",
@@ -17,7 +17,7 @@
           ]
         },
         {
-          "id": "nodejs-fundamentals"
+          "id": "java-collections.yaml"
         }
       ]
     },
