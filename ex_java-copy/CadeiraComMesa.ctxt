@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CadeiraComMesa
+comment1.params=cor\ largura\ profundidade
+comment1.target=CadeiraComMesa(Cor,\ int,\ int)
+numComments=2
