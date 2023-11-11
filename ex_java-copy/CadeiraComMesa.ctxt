@@ -2,4 +2,14 @@
 comment0.target=CadeiraComMesa
 comment1.params=cor\ largura\ profundidade
 comment1.target=CadeiraComMesa(Cor,\ int,\ int)
-numComments=2
+comment2.params=
+comment2.target=int\ getLargura()
+comment3.params=
+comment3.target=void\ setLargura()
+comment4.params=
+comment4.target=int\ getProfundidade()
+comment5.params=
+comment5.target=void\ setProfundidade()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
