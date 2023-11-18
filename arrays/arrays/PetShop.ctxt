@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PetShop
+comment1.params=quantMax
+comment1.target=PetShop(int)
+comment2.params=p
+comment2.target=boolean\ inserePet(Pet)
+comment3.params=nome
+comment3.target=Pet\ removePet(java.lang.String)
+comment4.params=
+comment4.target=void\ fazCachorroLatirem()
+comment5.params=
+comment5.target=void\ imprimePet()
+numComments=6
